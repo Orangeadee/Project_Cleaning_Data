@@ -1,0 +1,6 @@
+id,Podcast_Name,Episode_Title,Episode_Length_minutes,Genre,Host_Popularity_percentage,Publication_Day,Publication_Time,Guest_Popularity_percentage,Number_of_Ads,Episode_Sentiment,Listening_Time_minutes
+750000,Educational Nuggets,Episode 73,78.96,Education,38.11,Saturday,Evening,53.33,1.0,Neutral,0
+750001,Sound Waves,Episode 23,27.87,Music,71.29,Sunday,Morning,67.315,0.0,Neutral,0
+750002,Joke Junction,Episode 11,69.1,Comedy,67.89,Friday,Evening,97.51,0.0,Positive,0
+750003,Comedy Corner,Episode 73,115.39,Comedy,23.4,Sunday,Morning,51.75,2.0,Positive,0
+750004,Life Lessons,Episode 50,72.32,Lifestyle,58.1,Wednesday,Morning,11.3,2.0,Neutral,0
